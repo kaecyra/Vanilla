@@ -1,0 +1,1 @@
+<a href="/profile/steamapi/connect" class="SITS Popup">Sign in through STEAM</a>
