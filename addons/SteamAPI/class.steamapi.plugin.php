@@ -6,7 +6,7 @@
  * This plugin grants access to the Steam Web API.
  * 
  * Changes: 
- *  1.0     Release
+ *  
  * 
  * @author Tim Gunter <gunter.tim@gmail.com>
  * @copyright 2012 Tim Gunter
@@ -17,7 +17,7 @@
 $PluginInfo['SteamAPI'] = array(
    'Name' => 'Steam API Provider',
    'Description' => "Provide API hooks and authentication for the Steam Web API.",
-   'Version' => '1.0',
+   'Version' => '1.0a',
    'RequiredApplications' => array('Vanilla' => '2.1a'),
    'MobileFriendly' => TRUE,
    'Author' => "Tim Gunter",
