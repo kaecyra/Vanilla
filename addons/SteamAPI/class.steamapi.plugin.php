@@ -7,7 +7,7 @@
  * 
  * Changes: 
  *  
- * 
+ * @version 1.0a
  * @author Tim Gunter <gunter.tim@gmail.com>
  * @copyright 2012 Tim Gunter
  * @license http://www.opensource.org/licenses/gpl-2.0.php GPL
